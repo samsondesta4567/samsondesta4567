@@ -6,3 +6,6 @@ git config --global color.ui auto
 git config --global pull.rebase false
 git config --get user.samsondesta4567
 git config --get user.samsondesta@users.noreply.github.com
+ls ~/.ssh/id_ed25519.pub
+ssh-keygen -t ed25519
+
